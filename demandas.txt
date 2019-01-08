@@ -1,0 +1,24 @@
+18932 = Demanda não priorizada pelo gestor
+19222 = Demanda não priorizada pelo gestor
+25288 = Demanda não priorizada pelo gestor
+25487 = Demanda fechada pelo gestor
+
+19568 = Atividade pendente(Acacio)
+23716 = Atividade pendente(Acacio)
+25376 = Atividade pendente(Acacio)
+
+23743 = Documentação pendente (Vai virar atendimento Especializado)
+23714 = Documentação pendente
+23792 = Documentação pendente
+
+24473 = Demanda em desenvolvimento
+25108 = Demanda em desenvolvimento
+25182 = Demanda em desenvolvimento
+25383 = Demanda em desenvolvimento
+
+23888 = Demanda concluida(Dependa da entrega da atividade 19568)
+
+25433 = Demanda concluida(Proxima entrega)
+25897 = Demanda concluida(Proxima entrega)
+
+25553 = Demanda ainda não analisada
